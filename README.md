@@ -28,23 +28,22 @@ Pengalaman pertama pengguna saat membuka aplikasi.
 
 | Welcome | Ask Name | Hello | Start |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshots/onboarding_1.png" width="200"/> | <img src="screenshots/onboarding_2.png" width="200"/> | <img src="screenshots/onboarding_3.png" width="200"/> | <img src="screenshots/onboarding_4.png" width="200"/> |
+| <img src="Documentation/onboarding_1.png" width="200"/> | <img src="Documentation/onboarding_2.png" width="200"/> | <img src="Documentation/onboarding_3.png" width="200"/> | <img src="Documentation/onboarding_4.png" width="200"/> |
 
 ### 2. Fitur Utama (Home & Entry)
 Halaman utama dan proses pembuatan catatan.
 
 | Home Screen | New Entry (FAB) | Edit Entry | Note Detail |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshots/home.png" width="200"/> | <img src="screenshots/new_entry.png" width="200"/> | <img src="screenshots/edit_entry.png" width="200"/> | <img src="screenshots/detail.png" width="200"/> |
+| <img src="Documentation/home.png" width="200"/> | <img src="Documentation/new_entry.png" width="200"/> | <img src="Documentation/edit_entry.png" width="200"/> | <img src="Documentation/detail.png" width="200"/> |
 
 ### 3. Fitur Tambahan (Tabs)
 Navigasi fitur pendukung melalui Bottom Navigation Bar.
 
 | Calendar View | Insights / Stats | Settings |
 |:---:|:---:|:---:|
-| <img src="screenshots/calendar.png" width="200"/> | <img src="screenshots/insights.png" width="200"/> | <img src="screenshots/settings.png" width="200"/> |
+| <img src="Documentation/calendar.png" width="200"/> | <img src="Documentation/insights.png" width="200"/> | <img src="Documentation/settings.png" width="200"/> |
 
----
 
 ## 🛠️ Teknologi & Library
 
